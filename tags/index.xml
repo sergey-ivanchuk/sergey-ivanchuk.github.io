@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>consulting</title>
-      <link>http://sergey-ivanchuk.github.io/tags/consulting/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://sergey-ivanchuk.github.io/tags/consulting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>education</title>
       <link>http://sergey-ivanchuk.github.io/tags/education/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
@@ -39,11 +30,20 @@
     </item>
     
     <item>
-      <title>healthcare</title>
-      <link>http://sergey-ivanchuk.github.io/tags/healthcare/</link>
+      <title>soft-skills</title>
+      <link>http://sergey-ivanchuk.github.io/tags/soft-skills/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://sergey-ivanchuk.github.io/tags/healthcare/</guid>
+      <guid>http://sergey-ivanchuk.github.io/tags/soft-skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technical-skills</title>
+      <link>http://sergey-ivanchuk.github.io/tags/technical-skills/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://sergey-ivanchuk.github.io/tags/technical-skills/</guid>
       <description></description>
     </item>
     

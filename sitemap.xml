@@ -23,22 +23,12 @@
   </url>
   
   <url>
-    <loc>http://sergey-ivanchuk.github.io/tags/consulting/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://sergey-ivanchuk.github.io/tags/education/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://sergey-ivanchuk.github.io/categories/experience/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://sergey-ivanchuk.github.io/tags/healthcare/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,7 +53,17 @@
   </url>
   
   <url>
+    <loc>http://sergey-ivanchuk.github.io/tags/soft-skills/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sergey-ivanchuk.github.io/tags/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sergey-ivanchuk.github.io/tags/technical-skills/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url>
   
