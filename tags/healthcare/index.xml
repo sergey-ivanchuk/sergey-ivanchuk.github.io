@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>healthcare on Sergey Ivanchuk</title>
+    <link>http://sergey-ivanchuk.github.io/tags/healthcare/</link>
+    <description>Recent content in healthcare on Sergey Ivanchuk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://sergey-ivanchuk.github.io/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Work Experience</title>
+      <link>http://sergey-ivanchuk.github.io/post/experience/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://sergey-ivanchuk.github.io/post/experience/</guid>
+      <description>Industry &amp;amp; Domain Knowledge  Healthcare - claims, clinical and demographic data modeling Consulting - general engagement with various stakeholders  Technical Skills  Languages - Python &amp;amp; a little bit of R, SQL, Java, JavaScript, Shell Dev. Tools - Jupyter, Containers (Docker), Anaconda, Git, VSCode Big Data Tools - Hadoop, Apache (Spark, Airflow, etc.), GPUs Deep Learning APIs - TensorFlow &amp;amp; PyTorch starter Cloud Platforms - Microsoft Azure  Soft Skills  Organizing, Planning &amp;amp; Coordinating projects Agile, Scrum &amp;amp; Waterfall methodologies  </description>
+    </item>
+    
+  </channel>
+</rss>
